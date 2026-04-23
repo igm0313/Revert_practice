@@ -13,5 +13,6 @@ public class revert {
         month = Integer.parseInt(birth)/100%100;
         day = Integer.parseInt(birth)%100;
 
+
     }
 }
